@@ -1,7 +1,7 @@
 # 🤖 𝐋𝐚𝐛𝐢𝐛 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐛𝐨𝐭
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=NAYAN%20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝐋𝐚𝐛𝐢𝐛-𝐨𝐟𝐟𝐢𝐜𝐚𝐥-𝐛𝐨𝐭&descAlignY=57&textBg=false&animation=fadeIn" />
 </p>
 
 <p align="center">
