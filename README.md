@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=welcome+To+NAYAN-WHATSAPP-BOT;" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%9B'%F0%9D%90%AC+%F0%9D%90%8E%F0%9D%90%9F%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%A5+%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%AD)](https://git.io/typing-svg);" />
 </p>
 
 
