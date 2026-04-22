@@ -21,7 +21,7 @@
 Click the button below to fork the 𝐋𝐚𝐛𝐢𝐛'𝐬 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐁𝐨𝐭 repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/labibofficalbot/labib-WHATSAPP-BOT/fork">
+  <a href="https://github.com/labib-offical-bot/-.git">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -98,8 +98,8 @@ prefix: 'both' (prefix nonprefix both work)
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MOHAMMAD-NAYAN/NAYAN-WHATSAPP-BOT.git
-    cd NAYAN-WHATSAPP-BOT
+    git clone https://github.com/labib-offical-bot/-.git
+    cd labib-WHATSAPP-BOT
     ```
 
 2. **Install the dependencies:**
