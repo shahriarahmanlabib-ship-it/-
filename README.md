@@ -1,4 +1,4 @@
-# 🤖 Nayan Bot
+# 🤖 𝐋𝐚𝐛𝐢𝐛 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐛𝐨𝐭
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=NAYAN%20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -139,7 +139,7 @@ https://nayan-whatsapp-bot-paircode.onrender.com
 3. Enter your WhatsApp number with country code, e.g.:
 
 ```text
-88016152*****
+8801877******
 ```
 
 4. Click **Generate Pair Code**.
@@ -158,7 +158,7 @@ After pairing, the server will generate a `creds.json` file.
 2. Place it in the **session folder** of your bot:
 
 ```
-NAYAN-WHATSAPP-BOT/session/creds.json
+ Labib-offical-BOT/session/creds.json
 ```
 
 > ⚠️ This file contains your WhatsApp credentials. Keep it safe!
