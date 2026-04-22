@@ -21,7 +21,7 @@
 Click the button below to fork the Nayan WhatsApp Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/MOHAMMAD-NAYAN-07/NAYAN-WHATSAPP-BOT/fork">
+  <a href="https://github.com/labibofficalbot/labib-WHATSAPP-BOT/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
