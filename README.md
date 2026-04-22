@@ -18,7 +18,7 @@
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Nayan WhatsApp Bot repository to your GitHub account:
+Click the button below to fork the 𝐋𝐚𝐛𝐢𝐛'𝐬 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐁𝐨𝐭 repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/labibofficalbot/labib-WHATSAPP-BOT/fork">
