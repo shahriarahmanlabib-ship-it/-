@@ -1,4 +1,4 @@
-# 🤖 𝐋𝐚𝐛𝐢𝐛 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐛𝐨𝐭
+omi# 🤖 𝐋𝐚𝐛𝐢𝐛 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐛𝐨𝐭
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝐋𝐚𝐛𝐢𝐛-𝐨𝐟𝐟𝐢𝐜𝐚𝐥-𝐛𝐨𝐭&descAlignY=57&textBg=false&animation=fadeIn" />
@@ -113,25 +113,7 @@ prefix: 'both' (prefix nonprefix both work)
     ```bash
     node index.js
     ```
-    
-### Start the Pair Code Generator Server
-
-## visit:
-
-```
-https://nayan-whatsapp-bot-paircode.onrender.com
-```
-
-> The server provides **Pair Code** and **QR Code** login options.
-
----
-
-### Generate Pair Code
-
-1. Open your browser and visit:
-
-```
-https://nayan-whatsapp-bot-paircode.onrender.com
+    ``
 ```
 
 2. Ensure **Pair Code** mode is selected (toggle at top).
