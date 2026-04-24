@@ -1,14 +1,14 @@
 {
   "packname": "My Sticker Pack",
   "author": "My Bot",
-  "botName": "Nayan Bot",
-  "botOwner": "Mohammad Nayan",
-  "ownerNumber": "8801615298449",
-  "botNumber": "Your Bot Number",
+  "botName": "Labib Offical",
+  "botOwner": "Your labib",
+  "ownerNumber": "8801877316871",
+  "botNumber": "",
   "autoUpdate": true,
   "timeZone": "Asia/Dhaka",
   "botUid": "",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "admin": [
     "your main number",
     "your grp id"
