@@ -11,7 +11,7 @@ module.exports = {
     prefix: true,
     description: "Show group admins with name + mention + group link + bot admins. Can also add/remove bot admins.",
     category: "Administration",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Developed by Labib Vaiya",
   },
 
   start: async ({ api, event, args }) => {
